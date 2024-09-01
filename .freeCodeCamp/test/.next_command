@@ -79,3 +79,8 @@ git branch -M main
 git push -u origin main
 git checkout -b new-branch
 echo hello PostgreSQL
+git init
+git status
+pwd
+git status
+git add .
